@@ -1,6 +1,7 @@
 # Monitoring Workplace Environment to Achieve Maximum Morker Satisfaction
 
-Afin d'augmenter l'efficience, l'efficacité, la productivité et l'engagement professionnel des salariés, les entreprises doivent répondre aux besoins de leurs salariés en leur offrant de bonnes conditions de travail. Ce projet est un système de monitoring de 2 paramètres environnementaux importants dans l’espace de travail.
+Afin d'augmenter l'efficience, l'efficacité, la productivité et l'engagement professionnel des salariés, les entreprises doivent répondre aux besoins de leurs salariés en leur offrant de bonnes conditions de travail. Ce projet est un système de monitoring de 2 paramètres environnementaux importants dans l’espace de travail, afin d'obtenir une satisfaction professionnelle maximale des travailleurs
+
 
 ## Run
 
