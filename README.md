@@ -5,6 +5,10 @@ Afin d'augmenter l'efficience, l'efficacité, la productivité et l'engagement p
 ## Run
 
 ```bash
+pip3 install -r requirements.txt
+```
+
+```bash
 streamlit run dash.py
 ```
 
